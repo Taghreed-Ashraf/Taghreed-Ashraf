@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **taghreed.ashraf593@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11feF_LxAKG0gVCjlrTMjM1jmRjlKl94H/view?usp=share_link](https://drive.google.com/file/d/11feF_LxAKG0gVCjlrTMjM1jmRjlKl94H/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1f5r6whlOEuJ4QT8ttbv2-yFrL1KcyuUl/view?usp=share_link](https://drive.google.com/file/d/1f5r6whlOEuJ4QT8ttbv2-yFrL1KcyuUl/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
