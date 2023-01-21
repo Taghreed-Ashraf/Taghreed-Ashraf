@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taghreed Ashraf</h1>
-<h3 align="center">Full stack Web Developer 💻 ( Asp.Net + Angular )</h3>
+<h3 align="center">Full stack Web Developer 💻 (Asp.Net + Angular)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taghreed-ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="taghreed-ashraf" /> </p>
 
